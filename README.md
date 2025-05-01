@@ -31,7 +31,7 @@ A RESTful API for managing departments and employees, built with ASP.NET Core an
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/<your-username>/CompanyAPI.git
+   git clone https://github.com/<your-username>/Company-Management-API.git
    cd CompanyAPI
    ```
 
